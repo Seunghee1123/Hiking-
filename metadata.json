@@ -1,0 +1,7 @@
+{
+  "name": "산들바람 (Sandeul-Baram) - 나의 등산 일지",
+  "description": "등산 기록을 관리하고 지도로 시각화하며, 가고 싶은 산을 위시리스트에 담는 프리미엄 등산 다이어리 서비스입니다. Gemini AI가 산의 정보와 추천 장비를 제안해줍니다.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
